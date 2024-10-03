@@ -1,0 +1,27 @@
+.top {
+  background-color: antiquewhite;
+  height: 80vh;
+}
+.middle {
+  background-color: bisque;
+  height: 50vh;
+  display: flex;
+}
+.bottom {
+  background-color: beige;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.ImageOne {
+  height: 100px;
+  width: 100px;
+  opacity: 0;
+  border-radius: 10%;
+}
+.ImageTwo {
+  height: 100px;
+  width: 100px;
+  border-radius: 100%;
+}
